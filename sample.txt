@@ -2,8 +2,8 @@
 int main{
 printf{"Hello GitHub"};
 printf{" This is a sample program"};
-int a;
-int b;
+int a = 20;
+int b = 10;
 int c;
 c=a+b;
 printf{c};
